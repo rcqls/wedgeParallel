@@ -1,0 +1,3 @@
+useDynLib(wedgeParallel)
+importFrom(Rcpp, evalCpp)
+importFrom(RcppParallel,RcppParallelLibs)

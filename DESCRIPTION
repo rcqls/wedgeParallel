@@ -1,0 +1,18 @@
+Package: wedgeParallel
+Type: Package
+Title: Computing wedge probabilities efficiently using RcppParallel
+Version: 1.0
+Date: 2016-06-01
+Authors@R: person("Bernard", "Ycart", role = c("aut", "cre"), email = "bernard.ycart@imag.fr")
+Author: Bernard Ycart
+Maintainer: Bernard Ycart <bernard.ycart@imag.fr>
+BugReports: bernard.ycart@imag.fr
+Description: Computes the probability for a standard Brownian motion to stay in a wedge of the plane limited by two straight lines, given by their slopes and intercepts.
+Depends: R (>= 3.0.0), Rcpp (>= 0.9.10), RcppParallel, wedge
+LazyData: true
+License: GPL
+NeedsCompilation: yes
+Packaged: 2016-10-21 11:59:47 UTC; ycart
+Suggests: testthat
+Imports: Rcpp,wedge,RcppParallel
+LinkingTo: Rcpp,wedge,RcppParallel
