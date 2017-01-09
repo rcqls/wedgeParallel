@@ -23,7 +23,7 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{wedgeParallel}
 }
 \references{
-B. Ycart (2016) Computing wedge probabilities. Arxiv #16??.????
+B. Ycart (2016) Computing wedge probabilities. arXiv:1612.05764
 }
 \keyword{distribution}
 \examples{
