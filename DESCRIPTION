@@ -3,8 +3,8 @@ Type: Package
 Title: Computing wedge probabilities efficiently using RcppParallel
 Version: 1.0
 Date: 2016-06-01
-Authors@R: c( person("Rémy","Drouilhet",role = c("auth"), email = "remy.drouilhet@imag.fr"),
-              person("Bernard", "Ycart", role = c("ctb "cre"), email = "bernard.ycart@imag.fr")
+Authors@R: c( person("Remy","Drouilhet",role = c("aut"), email = "remy.drouilhet@imag.fr"),
+              person("Bernard", "Ycart", role = c("ctb", "cre"), email = "bernard.ycart@imag.fr")
             )
 Author: Remy Drouilhet [auth],
         Bernard Ycart [ctb, cre]
